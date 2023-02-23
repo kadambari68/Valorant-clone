@@ -120,11 +120,20 @@ header {
 }
 
 .sova-img {
-  position: absolute;
+  position: fixed;
   transition: all 0.1s;
   z-index: 5;
+  object-fit: fill;
+  
 }
+.logo img{
+  z-index: 1;
 
+  left: auto;
+  right: auto;
+  align-items: center;
+
+}
 .header-text-container h1 {
   font-size: 20rem;
 }
