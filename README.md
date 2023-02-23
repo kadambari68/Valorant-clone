@@ -1,5 +1,9 @@
-# Valorant-Agent
+# Valorant-Clone
+
 A front end web showing all valorant agent. Enjoy the web!
+
+# Live Link https://sweet-salmiakki-d1a1de.netlify.app/
+
 ![image](https://user-images.githubusercontent.com/112871361/220972901-bb13de47-ecde-411f-a7f4-c9ae4155e083.png)
 
 ![image](https://user-images.githubusercontent.com/112871361/220973015-7f4ba3cf-199f-4c60-a259-4bd8209aee03.png)
