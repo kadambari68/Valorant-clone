@@ -240,7 +240,7 @@ p {
 .mapsIntro {
   height: 800px;
   width: 100%;
-  background-image: url("file:///C:/Users/kadam/OneDrive/Desktop/New%20folder/mapintro.png");
+  background-image: url("mapintro.png");
   background-position: center right;
   background-repeat: no-repeat;
 }
