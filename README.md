@@ -1,6 +1,7 @@
 # Valorant-Clone
 
 A front end web showing all valorant agent. Enjoy the web!
+Click on view all agents button to see the table of all agents then choose anyone of them to learn about their background and special abilities.
 
 # Live Link https://sweet-salmiakki-d1a1de.netlify.app/
 
