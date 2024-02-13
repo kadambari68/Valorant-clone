@@ -3,7 +3,7 @@
 A front end web showing all valorant agent. Enjoy the web!
 Click on view all agents button to see the table of all agents then choose anyone of them to learn about their background and special abilities.
 
-# Live Link [https://sweet-salmiakki-d1a1de.netlify.app/](https://kadambari68.github.io/Valorant-clone/)
+# Live Link (https://kadambari68.github.io/Valorant-clone/)
 
 ![image](https://user-images.githubusercontent.com/112871361/220972901-bb13de47-ecde-411f-a7f4-c9ae4155e083.png)
 
